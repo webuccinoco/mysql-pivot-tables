@@ -61,7 +61,7 @@ Built entirely using **native PHP**, it’s lightweight, easy to set up, and rel
 To install **Smart Pivot Table**:
 
 - Place the `MPT` directory inside a folder located within your web server's root directory (e.g., `htdocs` or `www`).
-- Open your browser and navigate to it:
+- Open your browser and navigate to the folloiwng link after replacing the "path-to-MPT" with the actual path. 
 
   `localhost/path-to-MPT/MPT`
 
@@ -90,7 +90,14 @@ After signing up:
 
 ### 🧩 Build Pivot Tables with Ease
 
-After logging in, you’ll be greeted with a simple, intuitive interface to visually build your MySQL Pivot Tables.
+After logging in, you’ll be greeted with a simple, intuitive interface to visually build your first MySQL Pivot Table as follow : 
+- Connect to your MYSQl OR MariaDB database. 
+- Choose a data source: one or more tables or views.
+- Define the rows: select the fields that will form the row axis.
+- select the fields that will form the column.
+- select the fields that will form the Rows.
+- select the fields that will form the values.
+
 
 ![Pivot Table Wizard](MPT/images/wizard.png)
 
@@ -103,5 +110,23 @@ If you need advanced filtering options, custom parameters, or a more powerful pi
 [Explore our drag-and-drop editor for building MySQL Pivot Tables effortlessly.](https://mysqlreports.com/php-mysql-pivot-tables/)
 
 
+## ❓ Frequently Asked Questions (FAQ)
 
+#### What is the difference between Smart Pivot Table and Smart Report Maker?
+Smart Pivot Table is a lightweight, free yet effective tool for building MYSQL pivot tables. [Explore our drag-and-drop editor for building MySQL Pivot Tables effortlessly.](https://mysqlreports.com/php-mysql-pivot-tables/) is a premium solution that includes a drag-and-drop interface, advanced dynamic filters, PDF/Excel exporting, and professional security features.
+
+#### Can I use this on a shared hosting environment?
+Yes, Since the tool is built with native PHP and requires only a standard MySQL connection, it works perfectly on any shared hosting provider. 
+
+#### Does this tool support large MySQL datasets?
+Absolutely. The architecture is designed to be lightweight and fast, allowing you to browse and summarize large tables through an optimized UI.
+
+#### Is this PHP pivot table tool really free?
+Yes! Smart Pivot Table is open-source and released under the MIT License. You can use it for both personal and commercial projects at no cost.
+
+#### Can I customize the source code?
+Yes, the MIT License allows you to modify the PHP code to fit your specific needs or integrate it into your existing web applications.
+
+#### Is MariaDB supported, or only MySQL?
+Yes, MariaDB is fully supported. Since MariaDB is a drop-in replacement for MySQL, Smart Pivot Table works seamlessly with MariaDB databases using the same connection settings.
 
