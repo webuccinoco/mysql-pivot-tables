@@ -109,7 +109,7 @@ After logging in, you’ll be greeted with a simple, intuitive interface to visu
 
 If you need advanced filtering options, custom parameters, or a more powerful pivot table builder, check out the upgraded module in [Smart Report Maker Home Page.](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/):
 
-![Samrt Report Maker - Mysql PIVOT TABLE drag and drop editor](https://mysqlreports.com/wp-content/uploads/2021/01/srm10_bigprof.gif)
+[![Smart Report Maker - MySQL Pivot Table Drag and Drop Editor](https://mysqlreports.com/wp-content/uploads/2021/01/srm10_bigprof.gif)](https://mysqlreports.com/php-mysql-pivot-tables/)
 
 
 [Try the Demo version of Smart Report Maker.](https://demo.mysqlreports.com/pivot-tables/create)
