@@ -49,7 +49,10 @@ Pivot tables provide powerful summarization of data, allowing you to condense th
 
 Built entirely using **native PHP**, it’s lightweight, easy to set up, and released under the **MIT License** — giving you full freedom to **use**, **modify**, and **distribute** it even in commercial projects.
 
-👉 However, if you’re looking for a **more advanced** and **modern** experience — including a **drag-and-drop pivot table builder**, dynamic filters, and enhanced features — check out the latest module in Smart Report Maker:  
+👉 However, if you’re looking for a **more advanced** and **modern** experience — including a **drag-and-drop pivot table builder**, dynamic filters, and enhanced features — check out the latest module in[Smart Report Maker Home Page.](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/):
+
+[![Smart Report Maker - MySQL Pivot Table Drag and Drop Editor](https://mysqlreports.com/wp-content/uploads/2021/01/srm10_bigprof.gif)](https://mysqlreports.com/php-mysql-pivot-tables/)
+
 [More info about our drag-and-drop editor for building MySQL Pivot Tables effortlessly.](https://mysqlreports.com/php-mysql-pivot-tables/)
 
 [Try the Demo version of Smart Report Maker.](https://demo.mysqlreports.com/pivot-tables/create)
@@ -109,7 +112,6 @@ After logging in, you’ll be greeted with a simple, intuitive interface to visu
 
 If you need advanced filtering options, custom parameters, or a more powerful pivot table builder, check out the upgraded module in [Smart Report Maker Home Page.](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/):
 
-[![Smart Report Maker - MySQL Pivot Table Drag and Drop Editor](https://mysqlreports.com/wp-content/uploads/2021/01/srm10_bigprof.gif)](https://mysqlreports.com/php-mysql-pivot-tables/)
 
 
 [Try the Demo version of Smart Report Maker.](https://demo.mysqlreports.com/pivot-tables/create)
