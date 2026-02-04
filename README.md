@@ -52,6 +52,8 @@ Built entirely using **native PHP**, it’s lightweight, easy to set up, and rel
 👉 However, if you’re looking for a **more advanced** and **modern** experience — including a **drag-and-drop pivot table builder**, dynamic filters, and enhanced features — check out the latest module in [Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/):
 
 [![Smart Report Maker - MySQL Pivot Table Drag and Drop Editor](https://mysqlreports.com/wp-content/uploads/2021/01/srm10_bigprof.gif)](https://mysqlreports.com/php-mysql-pivot-tables/)
+<h5 align="center">Drag-and-Drop MySQL Pivot Table Builder Module in Smart Report Maker</h5>
+
 
 [More info about our drag-and-drop editor for building MySQL Pivot Tables effortlessly.](https://mysqlreports.com/php-mysql-pivot-tables/)
 
@@ -113,6 +115,7 @@ After logging in, you’ll be greeted with a simple, intuitive interface to visu
 If you need advanced filtering options, custom parameters, or a more powerful pivot table builder, check out the upgraded module in [Smart Report Maker.](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/):
 
 [![Smart Report Maker - MySQL Pivot Table Drag and Drop Editor](https://mysqlreports.com/wp-content/uploads/2021/01/srm10_bigprof.gif)](https://mysqlreports.com/php-mysql-pivot-tables/)
+<h5 align="center">Smart Report Maker – Drag-and-Drop MySQL Pivot Table Builder</h5>
 
 [Try the Demo version of Smart Report Maker.](https://demo.mysqlreports.com/pivot-tables/create)
 
@@ -123,7 +126,25 @@ If you need advanced filtering options, custom parameters, or a more powerful pi
 ## ❓ Frequently Asked Questions (FAQ)
 
 #### What is the difference between Smart Pivot Table and Smart Report Maker?
-Smart Pivot Table is a lightweight, free yet effective tool for building MYSQL pivot tables. [Explore our drag-and-drop editor for building MySQL Pivot Tables effortlessly.](https://mysqlreports.com/php-mysql-pivot-tables/) is a premium solution that includes a drag-and-drop interface, advanced dynamic filters, PDF/Excel exporting, and professional security features.
+
+**Smart Pivot Table** is a lightweight, free tool focused exclusively on creating **MySQL pivot tables**. It is ideal if your only requirement is building pivot tables quickly and simply.  
+
+
+**Smart Report Maker**, on the other hand, is a **full-featured reporting platform** that goes far beyond pivot tables:
+
+1. **Multiple Modules & Advanced Reporting Features**  
+   Smart Report Maker includes multiple modules for building reports, dashboards, charts, KPIs, and pivot tables—making it a complete reporting solution.  
+   👉 [Explore Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/)
+
+2. **Drag-and-Drop Pivot Table Builder**  
+   Unlike Smart Pivot Table, Smart Report Maker provides a ** [visual drag-and-drop editor](https://mysqlreports.com/php-mysql-pivot-tables/)** for designing pivot tables with advanced options such as dynamic filters, parameters, and calculated fields.
+
+3. **Embed Manager for Secure Integration**  
+   Smart Report Maker includes an ** [Embed Manager]([https://mysqlreports.com/php-mysql-pivot-tables/](https://mysqlreports.com/srm-modules-embed-manager/)** that allows you to securely embed pivot tables and other generated resources (reports, charts, dashboards) into your own applications and websites.
+
+**In summary:**  
+Choose **Smart Pivot Table** if you only need a simple pivot table builder.  
+Choose **Smart Report Maker** if you need a comprehensive reporting system with advanced pivot tables, visual design tools, OR secure embedding capabilities TO embed pivot tables and other resources in your app or websites.
 
 #### Can I use this on a shared hosting environment?
 Yes, Since the tool is built with native PHP and requires only a standard MySQL connection, it works perfectly on any shared hosting provider. 
@@ -145,3 +166,4 @@ Yes, MariaDB is fully supported. Since MariaDB is a drop-in replacement for MySQ
  - [Explore our drag-and-drop editor for building MySQL Pivot Tables effortlessly.](https://mysqlreports.com/php-mysql-pivot-tables/)
  - [Try the Demo version of Smart Report Maker.](https://demo.mysqlreports.com/pivot-tables/create)
  - [Smart Report Maker Home Page.](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/)
+ - [Embed Manager of smart Report maker]([https://mysqlreports.com/php-mysql-pivot-tables/](https://mysqlreports.com/srm-modules-embed-manager/)
