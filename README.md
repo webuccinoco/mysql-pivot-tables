@@ -166,4 +166,4 @@ Yes, MariaDB is fully supported. Since MariaDB is a drop-in replacement for MySQ
  - [Explore our drag-and-drop editor for building MySQL Pivot Tables effortlessly.](https://mysqlreports.com/php-mysql-pivot-tables/)
  - [Try the Demo version of Smart Report Maker.](https://demo.mysqlreports.com/pivot-tables/create)
  - [Smart Report Maker Home Page.](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/)
- - [Embed Manager of smart Report maker]([https://mysqlreports.com/php-mysql-pivot-tables/](https://mysqlreports.com/srm-modules-embed-manager/)
+ - [Embed Manager of smart Report maker for embedding generated pivot tables in your own App or website](https://mysqlreports.com/srm-modules-embed-manager/)
