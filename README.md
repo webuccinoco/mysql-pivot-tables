@@ -137,10 +137,10 @@ If you need advanced filtering options, custom parameters, or a more powerful pi
    👉 [Explore Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/)
 
 2. **Drag-and-Drop Pivot Table Builder**  
-   Unlike Smart Pivot Table, Smart Report Maker provides a ** [visual drag-and-drop editor](https://mysqlreports.com/php-mysql-pivot-tables/)** for designing pivot tables with advanced options such as dynamic filters, parameters, and calculated fields.
+   Unlike Smart Pivot Table, Smart Report Maker provides a  [visual drag-and-drop editor](https://mysqlreports.com/php-mysql-pivot-tables/) for designing pivot tables with advanced options such as dynamic filters, parameters, and calculated fields.
 
 3. **Embed Manager for Secure Integration**  
-   Smart Report Maker includes an ** [Embed Manager]([https://mysqlreports.com/php-mysql-pivot-tables/](https://mysqlreports.com/srm-modules-embed-manager/)** that allows you to securely embed pivot tables and other generated resources (reports, charts, dashboards) into your own applications and websites.
+   Smart Report Maker includes an [Embed Manager](https://mysqlreports.com/srm-modules-embed-manager/) that allows you to securely embed pivot tables and other generated resources (reports, charts, dashboards) into your own applications and websites.
 
 **In summary:**  
 Choose **Smart Pivot Table** if you only need a simple pivot table builder.  
