@@ -5,6 +5,7 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL%20%7C%20MariaDB-orange)
 ![No Code](https://img.shields.io/badge/No%20Code-Yes-success)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Verified Domain](https://img.shields.io/badge/domain-verified-brightgreen)
 
 Transform your MySQL data into insightful pivot tables with **Smart Pivot Table** — a completely free, open-source **PHP MySQL pivot table builder** that eliminates the need for coding.  
 Its intuitive visual interface lets you connect your database and define pivot data sources quickly, making pivot-table analysis accessible to developers, analysts, and business users.
